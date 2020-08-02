@@ -1,4 +1,22 @@
 Assets {
+  Id: 17506291968950794759
+  Name: "Sphere - Half Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hemisphere_003"
+  }
+}
+Assets {
+  Id: 16047239738241984087
+  Name: "Pipe - Quarter Wedge Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_quarter_pipe_wedge_003"
+  }
+}
+Assets {
   Id: 12827530473249900764
   Name: "Opaque Emissive"
   PlatformAssetType: 2
@@ -23,6 +41,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_scap_01_ref"
+  }
+}
+Assets {
+  Id: 8220563994294740077
+  Name: "Ellipsoid - Truncated"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ellipsoid_truncated_001"
   }
 }
 Assets {
