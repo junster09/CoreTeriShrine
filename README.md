@@ -1,7 +1,7 @@
 # Core Teri Shrine
 ## An open-source meme for learning Git and Core!
 
-### What is This?
+### What Is This?
 Core Teri Shrine is a simple Core project that will be added onto as I try and figure out how the hell to use git and Core together.
 
 ### How do I use this?
