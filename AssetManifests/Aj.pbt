@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14541379120575232735
+  Name: "Urban Pipe Coupling 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_coupling_001_ref"
+  }
+}
+Assets {
   Id: 13486718312674240514
   Name: "Scifi Ship Nacelle 01"
   PlatformAssetType: 1
@@ -152,6 +161,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6925216187483720718
+  Name: "Ball"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_001"
+  }
+}
+Assets {
   Id: 6294238465103537058
   Name: "Cube - Rounded"
   PlatformAssetType: 1
@@ -230,6 +248,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bullet_001"
+  }
+}
+Assets {
+  Id: 1678978340045821419
+  Name: "Scifi Ship Nacelle 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_nacelle_002_ref"
   }
 }
 Assets {
