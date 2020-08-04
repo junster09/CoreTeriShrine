@@ -40,5 +40,5 @@ Assets {
     Version: "1.0.0"
     Description: "Just a rock equipment, doesn\'t do anything, but you can pick it up.  Dropping it costs extra :)"
   }
-  SerializationVersion: 61
+  SerializationVersion: 62
 }

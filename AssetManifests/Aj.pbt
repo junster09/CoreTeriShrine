@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16354317593366277883
-  Name: "Metal Old Beaten Gold 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_002"
-  }
-}
-Assets {
   Id: 16047239738241984087
   Name: "Pipe - Quarter Wedge Thick"
   PlatformAssetType: 1
@@ -71,6 +62,24 @@ Assets {
   }
 }
 Assets {
+  Id: 14155375887690048048
+  Name: "Rubber Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_scf_rubber_panels_004_uv"
+  }
+}
+Assets {
+  Id: 14148694443006706995
+  Name: "Scifi Cockpit Control Terminal 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_cockpit_ctrl_terminal_aux_001_ref"
+  }
+}
+Assets {
   Id: 13486718312674240514
   Name: "Scifi Ship Nacelle 01"
   PlatformAssetType: 1
@@ -98,15 +107,6 @@ Assets {
   }
 }
 Assets {
-  Id: 12568056527589784687
-  Name: "Pyramid"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pyramid_001"
-  }
-}
-Assets {
   Id: 12455293356321247304
   Name: "Modern Weapon - Magazine 02"
   PlatformAssetType: 1
@@ -131,6 +131,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_modern_axe_handle_001"
+  }
+}
+Assets {
+  Id: 11476426231281021703
+  Name: "Craftsman Roof 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_roof_001"
   }
 }
 Assets {
@@ -242,12 +251,21 @@ Assets {
   }
 }
 Assets {
-  Id: 5944393796542654307
-  Name: "Capsule"
+  Id: 6183130606669934264
+  Name: "Modern Weapon - Magazine 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_capsule_001"
+    AssetId: "sm_weap_modern_mag_001"
+  }
+}
+Assets {
+  Id: 5717544946372160630
+  Name: "Scifi Cockpit Back 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_cockpit_back_001_ref"
   }
 }
 Assets {
@@ -269,6 +287,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5220851011759092422
+  Name: "Scifi Ship Wing Large 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_wing_large_001_ref"
+  }
+}
+Assets {
   Id: 4846662083301446138
   Name: "Craftsman Part - Stair Balust"
   PlatformAssetType: 1
@@ -278,12 +305,30 @@ Assets {
   }
 }
 Assets {
+  Id: 4719056759762112587
+  Name: "Metal Basic Steel"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "steel_001"
+  }
+}
+Assets {
   Id: 4281380979366999084
   Name: "Hatchet - Blade"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_modern_axe_001"
+  }
+}
+Assets {
+  Id: 4000666765537101049
+  Name: "Street Utility Box 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_st_post_lights_utility_box_002"
   }
 }
 Assets {
@@ -341,12 +386,39 @@ Assets {
   }
 }
 Assets {
+  Id: 2646060968966858229
+  Name: "Invisible"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_invisible_001"
+  }
+}
+Assets {
   Id: 2264041107168619230
   Name: "Cone - Bullet"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bullet_001"
+  }
+}
+Assets {
+  Id: 2230138290698620771
+  Name: "Metal Diamond Plates 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_rust_diamond-plate_002"
+  }
+}
+Assets {
+  Id: 1895368884108644870
+  Name: "Street Light 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_st_post_lights_light_001"
   }
 }
 Assets {
@@ -374,15 +446,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_modern_bat_001"
-  }
-}
-Assets {
-  Id: 527763958605568440
-  Name: "Metal Steel Brushed"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_stainless-steel_001_uv"
   }
 }
 Assets {

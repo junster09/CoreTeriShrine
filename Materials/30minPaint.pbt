@@ -2,7 +2,7 @@ Assets {
   Id: 12955765501878885063
   Name: "30minPaint"
   PlatformAssetType: 13
-  SerializationVersion: 61
+  SerializationVersion: 62
   CustomMaterialAsset {
     BaseMaterialId: 6141453390620261225
     ParameterOverrides {
