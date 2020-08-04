@@ -1,4 +1,13 @@
 Assets {
+  Id: 17753179750050520435
+  Name: "Fantasy Shield 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_shield_001"
+  }
+}
+Assets {
   Id: 17506291968950794759
   Name: "Sphere - Half Thick"
   PlatformAssetType: 1
@@ -35,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15312805567995783140
+  Name: "Fantasy Crossbow Foregrip 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_foregrip_cross_001"
+  }
+}
+Assets {
   Id: 14541379120575232735
   Name: "Urban Pipe Coupling 01"
   PlatformAssetType: 1
@@ -44,12 +62,30 @@ Assets {
   }
 }
 Assets {
+  Id: 14237220486008111868
+  Name: "Knife - Blade"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_knife_001"
+  }
+}
+Assets {
   Id: 13486718312674240514
   Name: "Scifi Ship Nacelle 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_scf_ship_nacelle_001_ref"
+  }
+}
+Assets {
+  Id: 13078053896687535652
+  Name: "Modern Weapon - Stock 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_stock_003"
   }
 }
 Assets {
@@ -86,6 +122,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11597592556193149105
+  Name: "Hatchet - Handle"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_axe_handle_001"
   }
 }
 Assets {
@@ -152,6 +197,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7024490427461832088
+  Name: "Modern Weapon - Gas Cylinder 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_gas_cylinder_001"
+  }
+}
+Assets {
   Id: 7005719662607438937
   Name: "Capsule"
   PlatformAssetType: 1
@@ -167,6 +221,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_sphere_001"
+  }
+}
+Assets {
+  Id: 6855348992067761797
+  Name: "Grenade Canister 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weapons_grenade_sphere_001"
   }
 }
 Assets {
@@ -188,6 +251,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5663353028808464141
+  Name: "Shield 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_shield_001"
+  }
+}
+Assets {
   Id: 5307929122725223086
   Name: "Cone - Truncated Wide"
   PlatformAssetType: 1
@@ -206,12 +278,39 @@ Assets {
   }
 }
 Assets {
+  Id: 4281380979366999084
+  Name: "Hatchet - Blade"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_axe_001"
+  }
+}
+Assets {
+  Id: 3812387789624447764
+  Name: "Modern Weapon - Sight Rear 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_sight_rear_001"
+  }
+}
+Assets {
   Id: 3702191406046426907
   Name: "Emissive Glow Transparent"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_basic_emissive_001"
+  }
+}
+Assets {
+  Id: 3374093864809822223
+  Name: "Scifi Ship Fuselage 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_fuselage_001_ref"
   }
 }
 Assets {
@@ -266,6 +365,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_crescent_003"
+  }
+}
+Assets {
+  Id: 558842160526891522
+  Name: "Baseball Bat"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_modern_bat_001"
   }
 }
 Assets {
